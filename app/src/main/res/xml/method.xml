@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.sudan.voicekeyboard.MainActivity"
+    android:supportsSwitchingToNextInputMethod="true">
+    <subtype
+        android:imeSubtypeLocale="ar_SD"
+        android:imeSubtypeMode="voice"
+        android:label="Sudanese &amp; English Voice" />
+</input-method>
